@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://abktry.github.io/phoodle-hint/sitemap.xml
